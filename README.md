@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=15%2B+years+building+full-stack+software;15%2B+anos+construindo+software+full+stack;Node.js+%7C+TypeScript+%7C+PHP+%7C+React+%7C+AWS;Sempre+aprendendo%2C+sempre+entregando&font=Fira+Code&center=true&width=600&height=45&color=2C5364&size=20"/>
-
 </div>
 
 ---

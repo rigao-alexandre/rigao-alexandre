@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Alexandre%20Paes%20Rig%C3%A3o&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/alexandre-paes-rigao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Indaiatuba%2C%20Brazil-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/>
 
@@ -15,11 +14,11 @@
 
 ### 🇺🇸 About me
 
-Software Engineer with **15+ years of experience** designing and building full-stack platforms across fintech-adjacent, real estate, edtech and nonprofit domains. Currently building a donation/lottery-ticket platform at **April9 Digital Consulting** (Brisbane, AU – remote), working on payment integrations, subscriptions and order management with a Node.js/React stack. I enjoy untangling legacy systems, replacing them with minimal downtime, and mentoring teammates along the way.
+Software Engineer with **15+ years of experience** designing and building full-stack platforms across fintech-adjacent, real estate, edtech and nonprofit domains.
 
 ### 🇧🇷 Sobre mim
 
-Engenheiro de Software com **mais de 15 anos de experiência** projetando e construindo plataformas full-stack em domínios como construção civil, edtech e ONGs. Atualmente desenvolvo uma plataforma de doações e venda de tickets de loteria na **April9 Digital Consulting** (Brisbane, AU – remoto), trabalhando com stack Node.js/React, incluindo integrações de pagamento, assinaturas e gestão de pedidos. Gosto de destrinchar sistemas legados, substituí-los com o mínimo de downtime, e ajudar outras pessoas do time a crescer.
+Engenheiro de Software com **mais de 15 anos de experiência** projetando e construindo plataformas full-stack em domínios como construção civil, edtech e ONGs.
 
 ---
 
@@ -29,20 +28,21 @@ Engenheiro de Software com **mais de 15 anos de experiência** projetando e cons
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,react,html,css,jquery,bootstrap,dotnet,cs,postgres,mysql,mongodb,aws,azure,kafka,git,github,bitbucket,vscode&theme=dark" />
 </p>
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Node.js (JavaScript/TypeScript), PHP, C#, Java, Go, Python |
-| **Frontend & Mobile** | React, React Native, HTML, CSS, jQuery, Material UI, Bootstrap, Razor, Twig, Blade |
-| **Backend & APIs** | Node.js, .NET (C#), PHP, REST APIs, Microservices, Event-driven architecture |
-| **Databases** | PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Cosmos DB |
-| **Cloud & Infra** | AWS, Azure DevOps, Apache Kafka |
-| **Practices** | Git (GitHub / Bitbucket / Azure DevOps), Agile/Scrum, Requirements Engineering, Database Modeling |
+| Category              | Technologies                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------- |
+| **Languages**         | Node.js (JavaScript/TypeScript), PHP, C#, Java, Go, Python                                        |
+| **Frontend & Mobile** | React, React Native, HTML, CSS, jQuery, Material UI, Bootstrap, Razor, Twig, Blade                |
+| **Backend & APIs**    | Node.js, .NET (C#), PHP, REST APIs, Microservices, Event-driven architecture                      |
+| **Databases**         | PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Cosmos DB                                         |
+| **Cloud & Infra**     | AWS, Azure DevOps, Apache Kafka                                                                   |
+| **Practices**         | Git (GitHub / Bitbucket / Azure DevOps), Agile/Scrum, Requirements Engineering, Database Modeling |
 
 ---
 
 ### 🚀 Featured Projects / Projetos em Destaque
 
 #### [moodle-quizaccess_failgrade](https://github.com/rigao-alexandre/moodle-quizaccess_failgrade)
+
 `PHP` `Moodle`
 
 🇺🇸 A Moodle plugin that restricts access to a quiz based on the student's grade in a previous attempt. Published on the official [Moodle Plugins directory](https://moodle.org/plugins/quizaccess_failgrade).

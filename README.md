@@ -10,13 +10,11 @@
 
 ---
 
-### 🇺🇸 About me
+### 🌎 About me / Sobre mim
 
-Software Engineer with **15+ years of experience** designing and building full-stack platforms across fintech-adjacent, real estate, edtech and nonprofit domains.
+🇺🇸 Software Engineer with **15+ years of experience** designing and building full-stack platforms across fintech-adjacent, real estate, edtech and nonprofit domains.
 
-### 🇧🇷 Sobre mim
-
-Engenheiro de Software com **mais de 15 anos de experiência** projetando e construindo plataformas full-stack em domínios como construção civil, edtech e ONGs.
+🇧🇷 Engenheiro de Software com **mais de 15 anos de experiência** projetando e construindo plataformas full-stack em domínios como construção civil, edtech e ONGs.
 
 ---
 
@@ -112,12 +110,16 @@ Engenheiro de Software com **mais de 15 anos de experiência** projetando e cons
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!-- TODO: github-readme-stats.vercel.app public instance is unstable (frequent 503s) - deploy own instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+
+<p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rigao-alexandre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigao-alexandre&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rigao-alexandre&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rigao-alexandre&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 

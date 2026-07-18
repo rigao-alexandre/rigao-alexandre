@@ -83,6 +83,14 @@
 
 🇧🇷 Projeto (em desenvolvimento, ainda fora do ar) para ajudar a divulgar pets perdidos.
 
+##### FARVRE
+
+`PHP` `Laravel` `Filament`
+
+🇺🇸 A project (in development, not live yet) to build family trees and preserve family history.
+
+🇧🇷 Projeto (em desenvolvimento, ainda fora do ar) para montar árvores genealógicas e preservar a história da família.
+
 <!-- 👇 Adicione mais projetos seguindo o mesmo modelo / Add more projects following the same template
 
 #### [project-name](link-to-repo)

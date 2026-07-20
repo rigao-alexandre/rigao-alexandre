@@ -139,11 +139,9 @@
 
 <a href="https://www.linkedin.com/in/alexandre-paes-rigao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<br/><br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=rigao-alexandre&style=for-the-badge&color=2C5364" alt="profile views"/>
-
-<br/><br/>
+<p align="right"><sub><img src="https://komarev.com/ghpvc/?username=rigao-alexandre&style=flat-square&color=2C5364" alt="profile views"/></sub></p>
 
 <!-- <p align="center"><sub>🇮🇹 🇻🇦 🇨🇭 🇫🇷 🇺🇸 🇬🇧 🇦🇺 🇪🇸</sub></p>
 <p align="center"><sub>✈️ 🇵🇹 🇶🇦 🇨🇱 🇳🇿 ✈️</sub></p> -->

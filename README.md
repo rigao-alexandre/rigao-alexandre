@@ -57,6 +57,14 @@
 
 🇧🇷 Aplicativo para guardar trechos de texto e copiá-los depois sem precisar selecionar manualmente. Suporta modelos com placeholders `{{variavel}}` para textos preenchíveis, além de exportação/importação para backup.
 
+##### [ManuCasa](https://manucasa.netlify.app/)
+
+`JavaScript` `Netlify`
+
+🇺🇸 WIP
+
+🇧🇷 WIP
+
 #### 🚧 WIP
 
 ##### [Modus](https://modus.guru/)

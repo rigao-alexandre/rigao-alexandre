@@ -23,77 +23,75 @@
 <!-- TODO: update icons: https://github.com/tandpfun/skill-icons -->
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,react,html,css,jquery,bootstrap,dotnet,cs,postgres,mysql,mongodb,aws,azure,kafka,git,github,bitbucket,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,react,html,css,jquery,bootstrap,dotnet,cs,kotlin,spring,postgres,mysql,mongodb,aws,azure,kafka,terraform,githubactions,git,github,bitbucket,vscode&theme=dark" />
 </p>
 
 | Category              | Technologies                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------- |
-| **Languages**         | Node.js (JavaScript/TypeScript), PHP, C#, Java, Go, Python                                        |
+| **Languages**         | Node.js (JavaScript/TypeScript), PHP, C#, Java, Kotlin, Go, Python                                |
 | **Frontend & Mobile** | React, React Native, HTML, CSS, jQuery, Material UI, Bootstrap, Razor, Twig, Blade                |
-| **Backend & APIs**    | Node.js, .NET (C#), PHP, REST APIs, Microservices, Event-driven architecture                      |
+| **Backend & APIs**    | Node.js, .NET (C#), PHP, Spring Boot, REST APIs, Microservices, Event-driven architecture         |
+| **Integrations**      | Twilio, SendGrid                                                                                  |
 | **Databases**         | PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Cosmos DB                                         |
-| **Cloud & Infra**     | AWS, Azure DevOps, Apache Kafka                                                                   |
+| **Cloud & Infra**     | AWS, Azure DevOps, Apache Kafka, Terraform                                                        |
+| **CI/CD**             | GitHub Actions, CircleCI, ArgoCD                                                                  |
 | **Practices**         | Git (GitHub / Bitbucket / Azure DevOps), Agile/Scrum, Requirements Engineering, Database Modeling |
 
 ---
 
 ### 🚀 Featured Projects / Projetos em Destaque
 
-#### 🟢 Live
+#### Animapa
 
-##### [moodle-quizaccess_failgrade](https://github.com/rigao-alexandre/moodle-quizaccess_failgrade)
-
-`PHP` `Moodle`
-
-🇺🇸 A Moodle plugin that restricts access to a quiz based on the student's grade in a previous attempt. Published on the official [Moodle Plugins directory](https://moodle.org/plugins/quizaccess_failgrade).
-
-🇧🇷 Plugin para o Moodle que restringe o acesso a um quiz com base na nota obtida em uma tentativa anterior. Publicado no [diretório oficial de plugins do Moodle](https://moodle.org/plugins/quizaccess_failgrade).
-
-##### [Fichário](https://fichario.netlify.app/)
-
-`JavaScript` `Netlify`
-
-🇺🇸 A note-saving app to quickly store text snippets and copy them later without manual selection. Supports `{{variable}}` template placeholders for fillable text models, plus export/import for backups.
-
-🇧🇷 Aplicativo para guardar trechos de texto e copiá-los depois sem precisar selecionar manualmente. Suporta modelos com placeholders `{{variavel}}` para textos preenchíveis, além de exportação/importação para backup.
-
-##### [ManuCasa](https://manucasa.netlify.app/)
-
-`JavaScript` `Netlify`
-
-🇺🇸 WIP
-
-🇧🇷 WIP
-
-#### 🚧 WIP
-
-##### [Modus](https://modus.guru/)
-
-`PHP` `Laravel`
-
-🇺🇸 A household management app to track pantry inventory, generate smart shopping lists based on low stock, and get alerts for upcoming expiration dates, with shared access for family members.
-
-🇧🇷 Aplicativo de gestão doméstica para acompanhar o estoque da despensa, gerar listas de compras inteligentes com base em itens em falta e receber alertas de vencimento, com acesso compartilhado entre a família.
-
-##### [moodle-availability_attempts](https://github.com/rigao-alexandre/moodle-availability_attempts)
-
-`PHP` `Moodle`
-
-🇺🇸 A Moodle plugin (in development) that restricts access to modules and sections until the student has exhausted all attempts on a given activity, useful for gating remedial/advanced content behind prerequisite assessments.
-
-🇧🇷 Plugin para o Moodle (em desenvolvimento) que restringe o acesso a módulos e seções até que o aluno esgote as tentativas de uma atividade, útil para liberar conteúdo extra/avançado apenas após o esgotamento de uma avaliação pré-requisito.
-
-##### Animapa
-
-`PHP` `Laravel`
+`🚧 WIP` `PHP` `Laravel`
 
 🇺🇸 A project (in development, not live yet) to help spread the word about lost pets.
 
 🇧🇷 Projeto (em desenvolvimento, ainda fora do ar) para ajudar a divulgar pets perdidos.
 
-##### FARVRE
+#### [moodle-availability_attempts](https://github.com/rigao-alexandre/moodle-availability_attempts)
 
-`PHP` `Laravel` `Filament`
+`🟢 Live` `PHP` `Moodle`
+
+🇺🇸 A Moodle plugin that restricts access to modules and sections until the student has exhausted all attempts on a given activity, useful for gating remedial/advanced content behind prerequisite assessments. Published on the official [Moodle Plugins directory](https://marketplace.moodle.com/plugins/4086).
+
+🇧🇷 Plugin para o Moodle que restringe o acesso a módulos e seções até que o aluno esgote as tentativas de uma atividade, útil para liberar conteúdo extra/avançado apenas após o esgotamento de uma avaliação pré-requisito. Publicado no [diretório oficial de plugins do Moodle](https://marketplace.moodle.com/plugins/4086).
+
+#### [moodle-quizaccess_failgrade](https://github.com/rigao-alexandre/moodle-quizaccess_failgrade)
+
+`🟢 Live` `PHP` `Moodle`
+
+🇺🇸 A Moodle plugin that restricts access to a quiz based on the student's grade in a previous attempt. Published on the official [Moodle Plugins directory](https://moodle.org/plugins/quizaccess_failgrade).
+
+🇧🇷 Plugin para o Moodle que restringe o acesso a um quiz com base na nota obtida em uma tentativa anterior. Publicado no [diretório oficial de plugins do Moodle](https://moodle.org/plugins/quizaccess_failgrade).
+
+#### [Fichário](https://fichario.netlify.app/)
+
+`🟢 Live` `JavaScript` `Netlify`
+
+🇺🇸 A note-saving app to quickly store text snippets and copy them later without manual selection. Supports `{{variable}}` template placeholders for fillable text models, plus export/import for backups.
+
+🇧🇷 Aplicativo para guardar trechos de texto e copiá-los depois sem precisar selecionar manualmente. Suporta modelos com placeholders `{{variavel}}` para textos preenchíveis, além de exportação/importação para backup.
+
+#### [ManuCasa](https://manucasa.netlify.app/)
+
+`🟢 Live` `JavaScript` `Netlify`
+
+🇺🇸 WIP
+
+🇧🇷 WIP
+
+#### [Modus](https://modus.guru/)
+
+`🚧 WIP` `PHP` `Laravel`
+
+🇺🇸 A household management app to track pantry inventory, generate smart shopping lists based on low stock, and get alerts for upcoming expiration dates, with shared access for family members.
+
+🇧🇷 Aplicativo de gestão doméstica para acompanhar o estoque da despensa, gerar listas de compras inteligentes com base em itens em falta e receber alertas de vencimento, com acesso compartilhado entre a família.
+
+#### FARVRE
+
+`🚧 WIP` `PHP` `Laravel` `Filament`
 
 🇺🇸 A project (in development, not live yet) to build family trees and preserve family history.
 
@@ -102,7 +100,8 @@
 <!-- 👇 Adicione mais projetos seguindo o mesmo modelo / Add more projects following the same template
 
 #### [project-name](link-to-repo)
-`Tech` `Tech` `Tech`
+
+`🟢 Live | 🚧 WIP` `Tech` `Tech` `Tech`
 
 🇺🇸 Short description of what it does and why it's interesting.
 
@@ -116,7 +115,7 @@
 
 #### Detetivei
 
-`JavaScript` `🚧 WIP`
+`🚧 WIP` `JavaScript`
 
 🇺🇸 A solver for the board game Detetive (Clue/Cluedo): you register the players, log each guess made during the game and who showed which card, to help deduce the hidden solution.
 

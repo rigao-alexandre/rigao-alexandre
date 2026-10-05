@@ -20,10 +20,8 @@
 
 ### 🛠️ Tech Stack
 
-<!-- TODO: update icons: https://github.com/tandpfun/skill-icons -->
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,react,html,css,jquery,bootstrap,dotnet,cs,kotlin,spring,postgres,mysql,mongodb,aws,azure,kafka,terraform,githubactions,git,github,bitbucket,vscode&theme=dark" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,php,laravel,cs,dotnet,java,kotlin,spring,react,postgres,mongodb,aws,azure,kafka,terraform,githubactions&perline=9&theme=dark" />
 </p>
 
 | Category              | Technologies                                                                                      |
@@ -77,9 +75,9 @@
 
 `🟢 Live` `JavaScript` `Netlify`
 
-🇺🇸 WIP
+🇺🇸 Quick everyday guides for the household: recycling and selective collection, laundry care (including clothing label symbols) and kitchen basics like measurements, oven temperatures and cooking techniques.
 
-🇧🇷 WIP
+🇧🇷 Guias rápidos do dia a dia para a casa: reciclagem e coleta seletiva, cuidados com roupas (incluindo os símbolos das etiquetas) e o básico da cozinha, como medidas, temperaturas de forno e técnicas de preparo.
 
 #### [Modus](https://modus.guru/)
 

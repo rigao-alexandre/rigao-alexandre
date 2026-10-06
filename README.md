@@ -79,6 +79,14 @@
 
 🇧🇷 Guias rápidos do dia a dia para a casa: reciclagem e coleta seletiva, cuidados com roupas (incluindo os símbolos das etiquetas) e o básico da cozinha, como medidas, temperaturas de forno e técnicas de preparo.
 
+#### [moodle-quizaccess_timewindow](https://github.com/rigao-alexandre/moodle-quizaccess_timewindow)
+
+`🚧 WIP` `PHP` `Moodle`
+
+🇺🇸 A Moodle plugin that restricts when students can start new quiz attempts to a recurring daily time window (e.g. 2pm–4pm) in their own timezone, working alongside the quiz's open/close dates. In-progress attempts can continue after the window closes.
+
+🇧🇷 Plugin para o Moodle que limita o início de novas tentativas de um quiz a uma janela de horário diária recorrente (ex.: 14h–16h) no fuso do próprio aluno, funcionando junto com as datas de abertura/fechamento do quiz. Tentativas em andamento podem continuar após o fim da janela.
+
 #### [Modus](https://modus.guru/)
 
 `🚧 WIP` `PHP` `Laravel`
